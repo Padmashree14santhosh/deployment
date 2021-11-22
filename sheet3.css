@@ -1,0 +1,55 @@
+
+ #form{
+    text-align: justify;
+    size: 500px;
+    width: 200px;
+    height: auto;
+    
+
+}
+ p{
+     text-align: justify;
+     text-decoration-style: wavy;
+ }
+ .textline{
+     background-color: transparent;
+     outline: none;
+     outline-style: none;
+     border-top: none;
+     border-right: none;
+     border-left: none;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     /* font-size: 30px; */
+     /* color: black; */
+     font-style: italic;
+ }
+
+
+ div{
+     float: left;
+     justify-content: space-between ;
+     padding: 0 10px;
+    
+ }
+
+#ad{
+    width: 500px;
+}
+
+#st{
+    width:210px;
+}
+
+.color{
+    background-color: rgb(255, 230, 0);
+    height: 30px;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Estonia', cursive;
+}
+
+.id{
+    border: black;
+    border-style: double;
+    width: 600px;
+}
